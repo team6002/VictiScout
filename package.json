@@ -1,7 +1,7 @@
 {
-  "name": "VictiScout",
+  "name": "ZooScout",
   "version": "v2.0.0",
-  "description": "Scouting application for FIRST Robotics Competition, designed originally for Team 1418.",
+  "description": "Scouting application for FIRST Robotics Competition.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frc1418/VictiScout"
+    "url": "git+https://github.com/team6002/ZooScout"
   },
-  "author": "frc1418",
+  "author": "Zoobotixs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frc1418/VictiScout/issues"
+    "url": "Need Link"
   },
-  "homepage": "https://github.com/frc1418/VictiScout#readme",
+  "homepage": "https://github.com/team6002/ZooScout",
   "devDependencies": {
     "electron-packager": "^7.3.0",
     "electron": "^1.2.0",
