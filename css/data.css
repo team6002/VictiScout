@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /*overflow: auto;*/
 }
 body {
     background: #333;
@@ -29,6 +30,6 @@ th {
 }
 td {
     white-space: nowrap;
-    overflow: scroll;
+    overflow: auto;
     max-width: 100px;
 }
